@@ -1,0 +1,19 @@
+.user-png {
+  width: 25px;
+  height: 25px;
+}
+
+.navbar-brand {
+  color: chocolate;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.btn-nav {
+  background-color: chocolate;
+  border-radius: 10px;
+  font-weight: bold;
+  color: white !important;
+}
+
+.nav-link-hover:hover{color: chocolate !important;}

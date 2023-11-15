@@ -1,0 +1,17 @@
+.homepage {
+  width: 100%;
+  height: 100vh;
+}
+
+.homepage h1 {
+  font-size: 60px;
+}
+
+.homepage-btn {
+  border: none;
+  outline: none;
+  background-color: chocolate;
+  border-radius: 10px;
+  font-weight: bold;
+  color: white !important;
+}

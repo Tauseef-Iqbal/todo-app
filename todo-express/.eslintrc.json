@@ -1,0 +1,38 @@
+{
+    "env": {
+        "commonjs": true,
+        "es2021": true,
+        "node": true,
+        "jest": true
+    },
+    "extends": [
+        "standard"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 12
+    },
+    "ignorePatterns": [
+        "./test/unit-tests/results/**"
+    ],
+    "rules": {
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "quotes": [
+            "error",
+            "single"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "eol-last": [
+            "error",
+            "never"
+        ],
+        "angular/no-service-method": "off",
+        "angular/json-functions": "off",
+        "multiline-comment-style": ["error", "starred-block"]
+    }
+}

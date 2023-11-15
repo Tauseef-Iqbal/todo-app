@@ -1,0 +1,31 @@
+{
+  "cSpell.words": [
+    "acctvantage",
+    "createdb",
+    "DATEONLY",
+    "DBNAME",
+    "hstore",
+    "jsreport",
+    "jsreportapp",
+    "longform",
+    "odata",
+    "pgtools",
+    "SAVEPOINT",
+    "savepoints",
+    "sequelize",
+    "Unposted",
+    "upsert",
+    "xdescribe"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  }
+}
